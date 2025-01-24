@@ -35,4 +35,4 @@ async function addTodo() {
     console.log(chalk.gray(`📊 Current todo count: ${todos.length}`));
 }
 
-module.exports = addTodo; 
+module.exports = addTodo;

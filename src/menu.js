@@ -23,4 +23,4 @@ async function mainMenu() {
     return action;
 }
 
-module.exports = mainMenu; 
+module.exports = mainMenu;
